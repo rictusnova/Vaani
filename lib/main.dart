@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
   Widget build(context) {
     return MaterialApp(
       home: Home(),
-      title: "Animation",
+      title: "Vaani",
     );
   }
 }

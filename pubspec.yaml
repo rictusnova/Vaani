@@ -39,6 +39,7 @@ dependencies:
   alan_voice: ^3.6.0
   video_player:
   lottie:
+  audioplayers:
 
 dev_dependencies:
   flutter_test:
