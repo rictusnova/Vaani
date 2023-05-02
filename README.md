@@ -1,8 +1,12 @@
-# vaani
 
-A new Flutter project.
+[LinkedIn](https://www.linkedin.com/in/govind-madan/)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;[Website](https://gowindm.me/)
 
-## Getting Started
+
+# Vaani
+An AI storyteller based on Voice and Image Recognition.
+
+## Description
+[Video](https://link-url-here.org) 
 
 This project is a starting point for a Flutter application.
 
